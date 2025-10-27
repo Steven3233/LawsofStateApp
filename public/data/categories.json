@@ -1,0 +1,37 @@
+[
+  {
+    "id": "b202849e-d96b-4c96-9523-b5c6128612b3",
+    "name": "Criminal Code (CC)",
+    "orderNo": 1
+  },
+  {
+    "id": "6fe74b57-16a1-4cf1-a2f0-7925ca413234",
+    "name": "Civil Code",
+    "orderNo": 2
+  },
+  {
+    "id": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
+    "name": "Code of Criminal Procedure",
+    "orderNo": 3
+  },
+  {
+    "id": "24439d17-6677-495f-9cc4-414f820d2ac0",
+    "name": "Traffic Code",
+    "orderNo": 4
+  },
+  {
+    "id": "43c20332-e494-4d43-a7fa-d58736f89ad9",
+    "name": "Law Enforcement Code",
+    "orderNo": 5
+  },
+  {
+    "id": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
+    "name": "Narcotics and Weapon Code",
+    "orderNo": 6
+  },
+  {
+    "id": "a7295ba6-2a6c-40e9-9377-07fdaac78f8f",
+    "name": "Allgemeine Regelungen des San Andreas State Court",
+    "orderNo": 7
+  }
+]
