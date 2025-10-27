@@ -48,7 +48,7 @@ export default function GesetzePage() {
   }))
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#041e41] to-[#02204a]">
+    <div className="min-h-screen bg-[#041e41]">
       <div className="container mx-auto px-4 py-12 max-w-5xl">
         <div className="text-center mb-12">
           <div className="flex justify-center mb-4">
