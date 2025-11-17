@@ -894,10 +894,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "$ 5 Strafbefehl",
-        "body": "<p>(1) Strafsachen, die in Summe 8.000 Dollar Gesamtstrafe nicht übersteigen, kann das District Attorney’s Office mit einem Strafbefehl beenden, wenn es eine Durchführung einer Hauptverhandlung für nicht erforderlich hält.&nbsp;</p><p>(2) Der Strafbefehl enthält Angaben über den Sachverhalt, Tatbestände sowie eine Begründung.&nbsp;</p><p>(3) Einer vorherigen Anhörung des Beschuldigten bedarf es nicht.&nbsp;</p><p>(4) Der Strafbefehl muss dem Beschuldigten oder seinem Anwalt mitgeteilt werden.&nbsp;</p><p>(5) Der Beschuldigte oder sein Verteidiger können innerhalb von 7 Tagen ab Zustellung Beschwerde gegen den Strafbefehl beim State Court erheben.&nbsp;</p><p>(6) Strafbefehle können durch das District Attorney’s Office zur Bewährung ausgesetzt werden. Es gelten die Vorschriften des § 17 CCOP analog.</p>",
+        "body": "<p>(1) Strafsachen, die in Summe 8.000 Dollar Gesamtstrafe nicht übersteigen, kann das District Attorney’s Office mit einem Strafbefehl beenden, wenn es eine Durchführung einer Hauptverhandlung für nicht erforderlich hält.&nbsp;</p><p>(2) Der Strafbefehl enthält Angaben über den Sachverhalt, Tatbestände sowie eine Begründung.&nbsp;</p><p>(3) Einer vorherigen Anhörung des Beschuldigten bedarf es nicht.&nbsp;</p><p>(4) Der Strafbefehl muss dem Beschuldigten oder seinem Anwalt mitgeteilt werden.&nbsp;</p><p>(5) Der Beschuldigte oder sein Verteidiger können innerhalb von 7 Tagen ab Zustellung Beschwerde gegen den Strafbefehl beim State Court erheben.&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-26T15:23:32.2583550Z"
+        "updatedUtc": "2025-11-17T20:59:30.0837620Z"
     },
     {
         "id": "5720280a-47d7-4cc3-a7d2-7cc696c0756e",
@@ -984,10 +984,10 @@
         "categoryId": "3e55a7e8-b2af-49bc-8cd6-9eb12a726da8",
         "categoryName": "Code of Criminal Procedure",
         "name": "§ 11 Beschwerde",
-        "body": "<p>(1)&nbsp;Jede&nbsp;gerichtlich&nbsp;belastende&nbsp;Entscheidung&nbsp;kann&nbsp;im&nbsp;Rahmen&nbsp;eines&nbsp;Beschwerdeverfahren&nbsp;überprüft&nbsp;werden.&nbsp;Das&nbsp;Beschwerdeverfahren&nbsp;folgt&nbsp;in&nbsp;Grundzügen&nbsp;den&nbsp;strafprozessualen&nbsp;Richtlinien&nbsp;des&nbsp;Gesetzes.&nbsp;</p><p>(2)&nbsp;Entscheidungen&nbsp;über&nbsp;Vergehen&nbsp;nach&nbsp;Traffic&nbsp;Code&nbsp;sind&nbsp;vor&nbsp;dem&nbsp;Traffic&nbsp;Court&nbsp;beschwerdefähig.</p><p>(3)&nbsp;Beschwerden&nbsp;in&nbsp;Zivilangelegenheiten&nbsp;sind&nbsp;möglich.</p><p>(4)&nbsp;Das&nbsp;Beschwerdegericht&nbsp;kann&nbsp;Beschwerden&nbsp;annehmen,&nbsp;ihnen&nbsp;abhelfen&nbsp;oder&nbsp;diese&nbsp;für&nbsp;unzulässig&nbsp;erklären.&nbsp;Die&nbsp;Entscheidung&nbsp;darüber&nbsp;ergeht&nbsp;nach&nbsp;mündlicher&nbsp;Anhörung&nbsp;der&nbsp;Beteiligten.</p><p>(5)&nbsp;Der&nbsp;Beschwerdeführer&nbsp;trägt&nbsp;die&nbsp;Beweislast.&nbsp;</p><p>(6)&nbsp;Nimmt&nbsp;das&nbsp;Beschwerdegericht&nbsp;eine&nbsp;Beschwerde&nbsp;an,&nbsp;ohne&nbsp;ihr&nbsp;abzuhelfen,&nbsp;ist&nbsp;eine&nbsp;neue&nbsp;Beweisaufnahme&nbsp;erforderlich.&nbsp;Im&nbsp;Übrigen&nbsp;gelten&nbsp;die&nbsp;Verfahrensnormen.</p><p>(7)&nbsp;Eine&nbsp;für&nbsp;unzulässig&nbsp;erklärte&nbsp;Beschwerde&nbsp;kann&nbsp;nicht&nbsp;erneut&nbsp;vorgebracht&nbsp;werden.&nbsp;Eine&nbsp;Beschwerde&nbsp;ist&nbsp;unzulässig,&nbsp;wenn&nbsp;sie&nbsp;ohne&nbsp;Begründung,&nbsp;substanziellen&nbsp;Vortrag,&nbsp;erfolgte&nbsp;oder&nbsp;sie&nbsp;nicht&nbsp;imstande&nbsp;ist,&nbsp;Zweifel&nbsp;an&nbsp;der&nbsp;Rechtmäßigkeit&nbsp;der&nbsp;angegriffenen&nbsp;Entscheidung&nbsp;zu&nbsp;haben.&nbsp;</p><p>(8)&nbsp;Das&nbsp;Gericht&nbsp;ist&nbsp;bei&nbsp;der&nbsp;Entscheidungsfindung&nbsp;nicht&nbsp;an&nbsp;die&nbsp;Anträge&nbsp;der&nbsp;Beteiligten&nbsp;gebunden,&nbsp;jedoch&nbsp;gilt&nbsp;das&nbsp;Verschlechterungsverbot.&nbsp;</p>",
+        "body": "<p><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(1) Jede gerichtlich belastende Entscheidung kann in einem Beschwerdeverfahren überprüft werden. Das Beschwerdeverfahren folgt den strafprozessualen Grundsätzen dieses Gesetzes.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(2) Entscheidungen über Vergehen nach dem Traffic Code sind vor dem Traffic Court beschwerdefähig.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(3) Beschwerden in Zivilangelegenheiten sind zulässig.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(4) Das Beschwerdeverfahren ist aus Gründen der Prozessökonomie auf maximal 30 Minuten begrenzt. Zeugen werden im Beschwerdeverfahren nicht angehört.\nInnerhalb dieser Zeit entscheidet das Beschwerdegericht nach kurzer mündlicher Anhörung der Beteiligten über eine der folgenden Maßnahmen:\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nAnnahme der Beschwerde –&gt; es folgt eine Hauptverhandlung.\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nTeilweise Abhilfe –&gt; das Urteil wird zugunsten des Beschwerdeführers angepasst (nur milder, niemals strenger).\n</span><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\nAblehnung –&gt; die Beschwerde wird verworfen und ist erledigt.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(5) Der Beschwerdeführer trägt die Beweislast.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(6) Wird eine Beschwerde angenommen, ohne dass eine sofortige Abhilfe erfolgt, ist eine neue Beweisaufnahme in der Hauptverhandlung durchzuführen. Im Übrigen gelten die allgemeinen Verfahrensnormen.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(7) Eine für unzulässig erklärte oder abgelehnte Beschwerde kann nicht erneut vorgebracht werden. Unzulässig ist eine Beschwerde insbesondere dann, wenn sie ohne Begründung, ohne substanziellen Vortrag oder ohne erkennbaren Zweifel an der Rechtmäßigkeit der angegriffenen Entscheidung erhoben wurde.\n</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">\n(8) Das Gericht ist bei der Entscheidung nicht an die Anträge der Beteiligten gebunden. Das Verschlechterungsverbot bleibt unberührt.</span><br><br><span style=\"background-color:oklab(0.4298030.00169991-0.0058188/0.0784314);color:oklab(0.914169-0.000171489-0.00221756);\">(9) Beschwerden beim State Court sind mündlich zu beantragen. Eine ausführliche Begründung ist nicht erforderlich, diese erfolgt in der Anhörung.</span><br>&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-11-04T22:04:33.7705420Z"
+        "updatedUtc": "2025-11-17T20:58:02.5962050Z"
     },
     {
         "id": "23aee72d-9a4a-47f8-b0df-9a2901978717",
@@ -1124,10 +1124,10 @@
         "categoryId": "24439d17-6677-495f-9cc4-414f820d2ac0",
         "categoryName": "Traffic Code",
         "name": "§ 6 Illegales Tuning",
-        "body": "<p>(1)&nbsp;Illegales&nbsp;Tuning&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;am&nbsp;Fahrzeug&nbsp;technische&nbsp;Änderungen&nbsp;vorgenommen&nbsp;werden,&nbsp;die&nbsp;zu&nbsp;einer&nbsp;unzulässigen&nbsp;Steigerung&nbsp;der&nbsp;Leistung&nbsp;und&nbsp;zu&nbsp;einer&nbsp;Beeinflussung&nbsp;des&nbsp;ordnungsgemäßen&nbsp;Betriebs&nbsp;führen.</p><p>(2)&nbsp;Bei&nbsp;begründetem&nbsp;Verdacht&nbsp;auf&nbsp;illegales&nbsp;Tuning&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;das&nbsp;Fahrzeug&nbsp;anhalten.&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;muss&nbsp;bei&nbsp;einer&nbsp;geplanten&nbsp;Sicherstellung&nbsp;hinzugezogen&nbsp;werden.</p><p>(3)&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;kann&nbsp;eine&nbsp;technische&nbsp;Überprüfung&nbsp;über&nbsp;die&nbsp;verbauten&nbsp;Bauteile&nbsp;zu&nbsp;Lasten&nbsp;der&nbsp;Staatskasse&nbsp;anordnen.</p><p>(4)&nbsp;Verstöße&nbsp;gegen&nbsp;diesen&nbsp;Paragrafen&nbsp;sind&nbsp;nur&nbsp;durch&nbsp;Strafbefehl&nbsp;durch&nbsp;das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;zu&nbsp;ahnden.</p><p>(5)&nbsp;Der&nbsp;Strafrahmen&nbsp;beträgt&nbsp;500&nbsp;Dollar&nbsp;bis&nbsp;2.000&nbsp;Dollar.</p>",
+        "body": "<p>(1)&nbsp;Illegales&nbsp;Tuning&nbsp;liegt&nbsp;vor,&nbsp;wenn&nbsp;am&nbsp;Fahrzeug&nbsp;technische&nbsp;Änderungen&nbsp;vorgenommen&nbsp;werden,&nbsp;die&nbsp;zu&nbsp;einer&nbsp;unzulässigen&nbsp;Steigerung&nbsp;der&nbsp;Leistung&nbsp;und&nbsp;zu&nbsp;einer&nbsp;Beeinflussung&nbsp;des&nbsp;ordnungsgemäßen&nbsp;Betriebs&nbsp;führen.</p><p>(2)&nbsp;Bei&nbsp;begründetem&nbsp;Verdacht&nbsp;auf&nbsp;illegales&nbsp;Tuning&nbsp;kann&nbsp;die&nbsp;Exekutive&nbsp;das&nbsp;Fahrzeug&nbsp;anhalten.&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;muss&nbsp;bei&nbsp;einer&nbsp;geplanten&nbsp;Sicherstellung&nbsp;hinzugezogen&nbsp;werden.</p><p>(3)&nbsp;Das&nbsp;District&nbsp;Attorney’s&nbsp;Office&nbsp;kann&nbsp;eine&nbsp;technische&nbsp;Überprüfung&nbsp;über&nbsp;die&nbsp;verbauten&nbsp;Bauteile&nbsp;zu&nbsp;Lasten&nbsp;der&nbsp;Staatskasse&nbsp;anordnen.</p><p>(4) Entscheidungen über Verstöße gegen diesen Paragraphen können neben dem Strafbefehlsverfahren des District Attorney’s Office auch durch die zuständige Richterschaft im Rahmen eines gerichtlichen Verfahrens getroffen werden.</p><p>(5)&nbsp;Der&nbsp;Strafrahmen&nbsp;beträgt&nbsp;500&nbsp;Dollar&nbsp;bis&nbsp;2.000&nbsp;Dollar.</p>",
         "fineAmountMin": 500.00,
         "fineAmountMax": 2000.00,
-        "updatedUtc": "2025-10-24T07:06:42.3208200Z"
+        "updatedUtc": "2025-11-17T21:01:21.0534030Z"
     },
     {
         "id": "8594ff1e-5633-42e1-9abb-7a9aa5341073",
@@ -1174,10 +1174,10 @@
         "categoryId": "43c20332-e494-4d43-a7fa-d58736f89ad9",
         "categoryName": "Law Enforcement Code",
         "name": "§ 1 Aufgaben und Pflichten",
-        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;hat die Pflicht, Straftaten zu verfolgen. Daneben gewährleistet sie gefahren Abwehr sowie Ordnung und Sicherheit.</p><p>(2)&nbsp;Sie&nbsp;hat&nbsp;alle&nbsp;erdenklichen&nbsp;Maßnahmen&nbsp;zu&nbsp;ergreifen,&nbsp;um&nbsp;Gefahren&nbsp;für&nbsp;Leben,&nbsp;körperliche&nbsp;Unversehrtheit,&nbsp;Eigentum&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Ordnung&nbsp;zu&nbsp;verhindern&nbsp;oder&nbsp;wirksam&nbsp;zu&nbsp;beenden.</p><p>(3)&nbsp;Alle&nbsp;Maßnahmen&nbsp;müssen&nbsp;so&nbsp;ausgeführt&nbsp;werden,&nbsp;dass&nbsp;sie&nbsp;die&nbsp;Gefahr&nbsp;wirksam&nbsp;beenden,</p><p>ohne&nbsp;den&nbsp;Betroffenen&nbsp;stärker&nbsp;zu&nbsp;belasten&nbsp;als&nbsp;nötig&nbsp;oder&nbsp;die&nbsp;Sicherheit&nbsp;der&nbsp;Einsatzkräfte&nbsp;zu&nbsp;gefährden.</p><p>(4)&nbsp;Exekutivbeamte&nbsp;handeln&nbsp;mit&nbsp;Sorgfalt,&nbsp;Neutralität&nbsp;und&nbsp;Respekt.&nbsp;Sie&nbsp;müssen&nbsp;sich&nbsp;auf&nbsp;Verlangen&nbsp;durch&nbsp;ihre&nbsp;Dienstnummer&nbsp;gegenüber&nbsp;Dritten&nbsp;ausweisen.</p><p>(5)&nbsp;Nimmt&nbsp;ein&nbsp;Exekutivbeamter&nbsp;eine&nbsp;Maßnahme&nbsp;nach&nbsp;diesem&nbsp;Gesetz&nbsp;vor,&nbsp;so&nbsp;muss&nbsp;er&nbsp;als&nbsp;Angehöriger&nbsp;der&nbsp;Behörde&nbsp;klar&nbsp;erkennbar&nbsp;sein&nbsp;oder&nbsp;sich&nbsp;klar&nbsp;ausweisen.</p><p>&nbsp;</p>",
+        "body": "<p>(1)&nbsp;Die&nbsp;Exekutive&nbsp;hat die Pflicht, Straftaten zu verfolgen. Daneben gewährleistet sie gefahren Abwehr sowie Ordnung und Sicherheit.</p><p>(2)&nbsp;Sie&nbsp;hat&nbsp;alle&nbsp;erdenklichen&nbsp;Maßnahmen&nbsp;zu&nbsp;ergreifen,&nbsp;um&nbsp;Gefahren&nbsp;für&nbsp;Leben,&nbsp;körperliche&nbsp;Unversehrtheit,&nbsp;Eigentum&nbsp;oder&nbsp;die&nbsp;öffentliche&nbsp;Ordnung&nbsp;zu&nbsp;verhindern&nbsp;oder&nbsp;wirksam&nbsp;zu&nbsp;beenden.</p><p>(3)&nbsp;Alle&nbsp;Maßnahmen&nbsp;müssen&nbsp;so&nbsp;ausgeführt&nbsp;werden,&nbsp;dass&nbsp;sie&nbsp;die&nbsp;Gefahr&nbsp;wirksam&nbsp;beenden,</p><p>ohne&nbsp;den&nbsp;Betroffenen&nbsp;stärker&nbsp;zu&nbsp;belasten&nbsp;als&nbsp;nötig&nbsp;oder&nbsp;die&nbsp;Sicherheit&nbsp;der&nbsp;Einsatzkräfte&nbsp;zu&nbsp;gefährden.</p><p>(4)&nbsp;Exekutivbeamte&nbsp;handeln&nbsp;mit&nbsp;Sorgfalt,&nbsp;Neutralität&nbsp;und&nbsp;Respekt.&nbsp;Sie&nbsp;müssen&nbsp;sich&nbsp;auf&nbsp;Verlangen&nbsp;durch&nbsp;ihre&nbsp;Dienstnummer&nbsp;gegenüber&nbsp;Dritten&nbsp;ausweisen.</p><p>(5)&nbsp;Nimmt&nbsp;ein&nbsp;Exekutivbeamter&nbsp;eine&nbsp;Maßnahme&nbsp;nach&nbsp;diesem&nbsp;Gesetz&nbsp;vor,&nbsp;so&nbsp;muss&nbsp;er&nbsp;als&nbsp;Angehöriger&nbsp;der&nbsp;Behörde&nbsp;klar&nbsp;erkennbar&nbsp;sein&nbsp;oder&nbsp;sich&nbsp;klar&nbsp;ausweisen.</p><p><span style=\"background-color:rgb(28,25,23);color:rgb(255,255,255);\">(6) Die Exekutive spricht keine Urteile. Sie stellt lediglich Ordnungswidrigkeiten fest und verhängt Bußgelder nach Maßgabe der Gesetze des Staates San Andreas.</span></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-29T15:03:59.7676100Z"
+        "updatedUtc": "2025-11-17T21:01:51.7567320Z"
     },
     {
         "id": "6b391cc8-07e3-43ff-9d91-ac18a31ff950",
@@ -1403,61 +1403,61 @@
         "id": "aef07012-3daf-4b5c-845c-3d55e0be5d20",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 1 Grundlagen",
+        "name": "§ 5 Grundlagen",
         "body": "<p>(1)&nbsp;Als&nbsp;Waffe&nbsp;gilt&nbsp;jeder&nbsp;Gegenstand,&nbsp;der&nbsp;nach&nbsp;seiner&nbsp;Bauart&nbsp;oder&nbsp;bestimmungsgemäßen&nbsp;Verwendung&nbsp;dazu&nbsp;bestimmt&nbsp;ist,&nbsp;im&nbsp;Kampfeinsatz&nbsp;Verletzungen&nbsp;zuzufügen,&nbsp;einen&nbsp;Menschen&nbsp;zu&nbsp;töten&nbsp;oder&nbsp;der&nbsp;Selbstverteidigung&nbsp;zu&nbsp;dienen.&nbsp;Maßgeblich&nbsp;ist&nbsp;dabei&nbsp;der&nbsp;Zweck,&nbsp;einem&nbsp;Menschen&nbsp;durch&nbsp;den&nbsp;Einsatz&nbsp;des&nbsp;Gegenstands&nbsp;erhebliche&nbsp;Verletzungen&nbsp;zufügen&nbsp;zu&nbsp;können.</p><p>(2)&nbsp;Die&nbsp;Waffenkategorien&nbsp;gliedern&nbsp;sich&nbsp;in&nbsp;Wurf-,&nbsp;Hieb-,&nbsp;Stich-&nbsp;und&nbsp;Schusswaffen.&nbsp;Schusswaffen&nbsp;werden&nbsp;nach&nbsp;Lauflänge&nbsp;in&nbsp;Kurzwaffe&nbsp;und&nbsp;Langwaffe&nbsp;unterteilt.</p><p>(3)&nbsp;Der&nbsp;Besitz,&nbsp;das&nbsp;Mitführen&nbsp;oder&nbsp;das&nbsp;Abfeuern&nbsp;von&nbsp;Langwaffe&nbsp;und&nbsp;deren&nbsp;Munition&nbsp;–&nbsp;auch&nbsp;auf&nbsp;Privatbesitz&nbsp;–&nbsp;sind&nbsp;verboten&nbsp;und&nbsp;strafbar.</p><p>(4)&nbsp;Als&nbsp;legale&nbsp;Kurzwaffe&nbsp;gelten&nbsp;ausschließlich&nbsp;das&nbsp;folgende&nbsp;Modell:&nbsp;SNS&nbsp;Pistole.</p><p>&nbsp;Der&nbsp;Besitz,&nbsp;das&nbsp;Mitführen&nbsp;oder&nbsp;das&nbsp;Abfeuern&nbsp;sonstiger&nbsp;Kurzwaffe&nbsp;sind&nbsp;verboten&nbsp;und&nbsp;strafbar.</p><p>(5)&nbsp;Mit&nbsp;Ausnahme&nbsp;von&nbsp;Taschenlampen&nbsp;sind&nbsp;sämtliche&nbsp;Anbauteile,&nbsp;Zubehörteile&nbsp;und&nbsp;Aufsätze&nbsp;für&nbsp;Waffen&nbsp;verboten.</p><p>(6)&nbsp;Hieb-,&nbsp;Wurf-&nbsp;und&nbsp;Stichwaffen&nbsp;sind&nbsp;verboten.</p><p>Ausgenommen&nbsp;sind&nbsp;Gegenstände,&nbsp;die&nbsp;primär&nbsp;für&nbsp;landwirtschaftliche&nbsp;Tätigkeiten&nbsp;bestimmt&nbsp;sind,&nbsp;sowie&nbsp;Klingen&nbsp;mit&nbsp;einer&nbsp;Länge&nbsp;unter&nbsp;15&nbsp;cm.</p><p>(7)&nbsp;Gegenstände,&nbsp;die&nbsp;ihrem&nbsp;Ursprung&nbsp;nach&nbsp;zur&nbsp;Ausübung&nbsp;einer&nbsp;Sportart&nbsp;bestimmt&nbsp;sind,&nbsp;gelten&nbsp;nicht&nbsp;als&nbsp;Waffen.</p><p></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:13:25.7175490Z"
+        "updatedUtc": "2025-11-17T20:58:21.5079170Z"
     },
     {
         "id": "f94c6bb2-1131-4497-a716-a668890fba49",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 1a Öffentliches Tragen von Schusswaffen",
+        "name": "§ 5a Öffentliches Tragen von Schusswaffen",
         "body": "<p>(1) Das sichtbare Tragen jeglicher Schusswaffen in der Öffentlichkeit ist untersagt. Sichtbar getragen sind Waffen, die offen am Körper, in einem Holster, an einem Gürtel, über der Schulter, in der Hand oder sonst in einer Weise mitgeführt werden, dass sie für Dritte erkennbar sind.<br>(2) Das verdeckte Mitführen von rechtmäßig im Besitz befindlichen Schusswaffen ist nur mit gültigem Waffenschein zulässig; die Waffe hat so geführt zu werden, dass sie für Dritte nicht erkennbar ist.<br>(3) Das Mitführen oder Zeigen illegaler Schusswaffen ist in jeglicher Form verboten.<br>(4) Verstöße gegen Abs. 1-3 können mit bis zu 1.500 Dollar bestraft werden.</p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 1500.00,
-        "updatedUtc": "2025-11-01T17:20:40.3398010Z"
+        "updatedUtc": "2025-11-17T20:58:39.4452450Z"
     },
     {
         "id": "a4a77932-855c-45e7-924a-c2fca0eff66e",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 2  Waffenschein",
+        "name": "§ 6  Waffenschein",
         "body": "<p>(1)&nbsp;Der&nbsp;Erwerb,&nbsp;Besitz&nbsp;und&nbsp;das&nbsp;Mitführen&nbsp;von&nbsp;Waffen&nbsp;im&nbsp;Sinne&nbsp;des&nbsp;§&nbsp;1&nbsp;sind&nbsp;nur&nbsp;mit&nbsp;einem&nbsp;gültigen&nbsp;Waffenschein&nbsp;zulässig.</p><p>(2)&nbsp;Für&nbsp;Langwaffen&nbsp;sowie&nbsp;Hieb-,&nbsp;Stich-&nbsp;oder&nbsp;Wurfwaffen,&nbsp;die&nbsp;nicht&nbsp;unter&nbsp;die&nbsp;in&nbsp;§&nbsp;1&nbsp;Abs.&nbsp;7&nbsp;genannte&nbsp;Ausnahme&nbsp;fallen,&nbsp;darf&nbsp;kein&nbsp;Waffenschein&nbsp;erteilt&nbsp;werden.</p><p>(3)&nbsp;Der&nbsp;Besitz,&nbsp;Erwerb&nbsp;und&nbsp;das&nbsp;Mitführen&nbsp;legaler&nbsp;Feuerwaffen&nbsp;setzt&nbsp;eine&nbsp;entsprechende&nbsp;Waffenlizenz&nbsp;(Waffenschein)&nbsp;voraus.</p><p>(4)&nbsp;Jeder&nbsp;Bürger&nbsp;kann&nbsp;beim&nbsp;Los&nbsp;Santos&nbsp;Police&nbsp;Department&nbsp;einen&nbsp;Antrag&nbsp;auf&nbsp;Erteilung&nbsp;eines&nbsp;Waffenscheins&nbsp;zum&nbsp;Selbstschutz&nbsp;stellen.&nbsp;Im&nbsp;Rahmen&nbsp;des&nbsp;Waffenscheins&nbsp;darf&nbsp;die&nbsp;SNS&nbsp;Pistole&nbsp;geführt&nbsp;werden.&nbsp;Personen&nbsp;mit&nbsp;einschlägigen&nbsp;Vorstrafen&nbsp;sind&nbsp;von&nbsp;Absatz&nbsp;4&nbsp;ausgeschlossen.&nbsp;</p><p>(5)&nbsp;Das&nbsp;Ausstellen&nbsp;eines&nbsp;Waffenscheins&nbsp;obliegt&nbsp;den&nbsp;zuständigen&nbsp;Beamten.&nbsp;Die&nbsp;Entscheidung&nbsp;erfolgt&nbsp;nach&nbsp;pflichtgemäßem&nbsp;Ermessen&nbsp;und&nbsp;unter&nbsp;Prüfung&nbsp;der&nbsp;persönlichen&nbsp;Eignung.</p><p>(6)&nbsp;Der&nbsp;Besitz&nbsp;oder&nbsp;das&nbsp;Führen&nbsp;einer&nbsp;Waffe&nbsp;ohne&nbsp;gültigen&nbsp;Waffenschein&nbsp;kann&nbsp;mit&nbsp;einem&nbsp;Bußgeld&nbsp;von&nbsp;bis&nbsp;zu&nbsp;3.000&nbsp;Dollar&nbsp;bestraft&nbsp;werden.</p><p></p>",
         "fineAmountMin": 0.00,
         "fineAmountMax": 3000.00,
-        "updatedUtc": "2025-10-24T07:05:29.7730410Z"
+        "updatedUtc": "2025-11-17T20:58:29.4963790Z"
     },
     {
         "id": "4772d54b-e0cb-4031-9040-3320dac2265b",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 3 Entzug und Suspendierung",
-        "body": "<p>(1)&nbsp;Der&nbsp;Waffenschein&nbsp;kann&nbsp;auf&nbsp;Antrag&nbsp;dauerhaft&nbsp;durch&nbsp;einen&nbsp;Richter&nbsp;entzogen&nbsp;werden.</p><p>(2)&nbsp;Bei&nbsp;dringendem&nbsp;Tatverdacht&nbsp;kann&nbsp;ein&nbsp;Beamter&nbsp;der&nbsp;Exekutive&nbsp;den&nbsp;Waffenschein&nbsp;vorläufig&nbsp;bis&nbsp;zum&nbsp;Ende&nbsp;einer&nbsp;Ermittlungsmaßnahme&nbsp;entziehen.&nbsp;</p><p>(3)&nbsp;Gegen&nbsp;diese&nbsp;Entscheidung&nbsp;ist&nbsp;eine&nbsp;Beschwerde&nbsp;nach&nbsp;§&nbsp;13&nbsp;COCP&nbsp;zulässig.&nbsp;</p><p></p>",
+        "name": "§ 7 Entzug und Suspendierung",
+        "body": "<p>(1)&nbsp;Der&nbsp;Waffenschein&nbsp;kann&nbsp;auf&nbsp;Antrag&nbsp;dauerhaft&nbsp;durch&nbsp;einen&nbsp;Richter&nbsp;entzogen&nbsp;werden.</p><p>(2)&nbsp;Bei&nbsp;dringendem&nbsp;Tatverdacht&nbsp;kann&nbsp;ein&nbsp;Beamter&nbsp;der&nbsp;Exekutive&nbsp;den&nbsp;Waffenschein&nbsp;vorläufig&nbsp;bis&nbsp;zum&nbsp;Ende&nbsp;einer&nbsp;Ermittlungsmaßnahme&nbsp;entziehen.&nbsp;</p><p>(3)&nbsp;Gegen&nbsp;diese&nbsp;Entscheidung&nbsp;ist&nbsp;eine&nbsp;Beschwerde&nbsp;nach&nbsp;§&nbsp;11&nbsp;COCP&nbsp;zulässig.&nbsp;</p><p>&nbsp;</p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:14:12.8746040Z"
+        "updatedUtc": "2025-11-17T20:58:48.2951970Z"
     },
     {
         "id": "352c1aff-a09b-4566-afde-83105284c963",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 4 Waffenhandel",
+        "name": "§ 8 Waffenhandel",
         "body": "<p>(1)&nbsp;Der&nbsp;Handel&nbsp;mit&nbsp;sämtlichen&nbsp;Waffen,&nbsp;ausgenommen&nbsp;legaler&nbsp;Stichwaffen,&nbsp;nach&nbsp;§&nbsp;1&nbsp;ist&nbsp;verboten&nbsp;und&nbsp;wird&nbsp;mit&nbsp;3.500&nbsp;$&nbsp;–&nbsp;6.000&nbsp;$&nbsp;bestraft.</p><p>(2)&nbsp;Der&nbsp;Versuch&nbsp;des&nbsp;Waffenhandels&nbsp;ist&nbsp;ebenfalls&nbsp;strafbar.</p><p>(3)&nbsp;Eine&nbsp;Ausnahme&nbsp;besteht&nbsp;nur&nbsp;für&nbsp;den&nbsp;Handel,&nbsp;der&nbsp;im&nbsp;Rahmen&nbsp;einer&nbsp;staatlich&nbsp;ausgestellten&nbsp;Lizenz&nbsp;erfolgt.</p><p></p>",
         "fineAmountMin": 3500.00,
         "fineAmountMax": 6000.00,
-        "updatedUtc": "2025-10-24T07:05:48.7731170Z"
+        "updatedUtc": "2025-11-17T20:58:55.9691460Z"
     },
     {
         "id": "f838a4e6-2487-4e33-bb49-395dca674347",
         "categoryId": "4c3ac4c6-d0dc-49dd-8ad6-3038902b435d",
         "categoryName": "Narcotics and Weapon Code",
-        "name": "§ 5 Sonderbefugnisse für Beamte",
+        "name": "§ 9 Sonderbefugnisse für Beamte",
         "body": "<p>(1)&nbsp;Officer&nbsp;und&nbsp;Angestellte&nbsp;des&nbsp;DOJ&nbsp;sind&nbsp;von&nbsp;den&nbsp;Vorschriften&nbsp;dieses&nbsp;Gesetzes&nbsp;im&nbsp;Rahmen&nbsp;ihrer&nbsp;dienstlichen&nbsp;Tätigkeit&nbsp;ausgenommen,&nbsp;soweit&nbsp;dienstliche&nbsp;Belange&nbsp;dies&nbsp;erfordern.&nbsp;Die&nbsp;konkreten&nbsp;Grenzen&nbsp;und&nbsp;Regelungen&nbsp;werden&nbsp;durch&nbsp;interne&nbsp;Richtlinien&nbsp;der&nbsp;Exekutive&nbsp;und&nbsp;Judikative&nbsp;festgelegt.</p><p>(2)&nbsp;Den&nbsp;oben&nbsp;genannten&nbsp;Personen&nbsp;ist&nbsp;es&nbsp;zum&nbsp;Selbstschutz&nbsp;gestattet,&nbsp;auch&nbsp;außerhalb&nbsp;der&nbsp;Dienstzeit&nbsp;eine&nbsp;Kurzwaffe&nbsp;mit&nbsp;sich&nbsp;zu&nbsp;führen.</p><p></p>",
         "fineAmountMin": null,
         "fineAmountMax": null,
-        "updatedUtc": "2025-10-23T07:15:01.3742890Z"
+        "updatedUtc": "2025-11-17T20:59:04.1963990Z"
     },
     {
         "id": "9163fc33-696d-461d-92f4-93bf88772532",
