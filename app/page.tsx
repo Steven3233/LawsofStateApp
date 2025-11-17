@@ -60,6 +60,9 @@ export default function GesetzePage() {
           <p className="text-muted-foreground text-lg text-balance text-white">
             Vollständige Gesetzessammlung des Staates San Andreas
           </p>
+          <p className="mt-2 text-muted-foreground text-nd text-balance text-white">
+            Letzte Aktualisierung: 17.11.2025 - 22:30 Uhr
+          </p>
         </div>
 
         <Card className="shadow-lg">
